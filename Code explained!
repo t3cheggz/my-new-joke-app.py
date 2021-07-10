@@ -1,0 +1,8 @@
+First look at the js code explained
+
+We add an input:
+input("enter to get the joke! ")
+(Space not needed)
+Then print the joke!
+Print("here is the joke!")
+That's it
